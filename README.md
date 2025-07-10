@@ -29,10 +29,26 @@ For my Master's dissertation, I decided to combine my knowledge about machine le
 
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+<img width="778" height="269" alt="image" src="https://github.com/user-attachments/assets/4e73060f-524c-4d45-9f93-00c59d18813c" /> <br>
+*Ref 1: Model metrics when only using URL features to train*
 
-Every screenshot should have some text explaining what the screenshot is about.
+<img width="777" height="271" alt="image" src="https://github.com/user-attachments/assets/730f9e35-c066-460a-9504-7e513f08d120" /> <br>
+*Ref 2: Model metrics when using both URL and HTML features to train*
 
-Example below.
+<img width="676" height="394" alt="image" src="https://github.com/user-attachments/assets/fcccbff5-a05f-4700-9d19-b78aec106db6" /> <br>
+*Ref 3: Comparison of accuracy of models developed in my dissertation compared to related research*
 
-*Ref 1: Network Diagram*
+<img width="770" height="474" alt="image" src="https://github.com/user-attachments/assets/e63d541e-c9cb-4a60-ab9c-ad30bc1bba6e" /> <br>
+*Ref 4: Block diagram of extension developed*
+
+<img width="564" height="510" alt="image" src="https://github.com/user-attachments/assets/77592b14-c948-4ace-9ac1-861d2ee77358" /> <br>
+*Ref 5: Extension in use on a legitimate website*
+
+<img width="577" height="254" alt="image" src="https://github.com/user-attachments/assets/611ca285-841b-4865-92ff-23004621f838" /> <br>
+*Ref 6: Extension in use on a phishing website*
+
+
+
+
+
+
